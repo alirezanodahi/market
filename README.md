@@ -1,4 +1,4 @@
-# Project Title
+# Market
 
 This project is a **Python** desktop application built using **Tkinter** for the GUI, connected to a **WAMPServer** database.
 
